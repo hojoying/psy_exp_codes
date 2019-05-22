@@ -1,3 +1,6 @@
+% Haojiang Ying's codes for psychology experiments.
+% Pls contact hjying(at)suda.edu.cn for further inquries.
+
 clear all
 PsychJavaTrouble
 Screen('CloseAll');
